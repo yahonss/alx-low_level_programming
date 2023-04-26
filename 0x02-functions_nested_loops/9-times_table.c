@@ -5,7 +5,7 @@
  */
 void times_table(void)
 {
-	int x, y, u, d;
+	int x, y, u, d, z;
 
 	for (x = 0; x <= 9; x++)
 	{
@@ -32,7 +32,7 @@ void times_table(void)
 	_putchar(z + '0');
 	}
 	}
-	_putchar('\n')
+	_putchar('\n');
 	}
 
 
