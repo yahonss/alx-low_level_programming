@@ -1,11 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
+
+
 /**
- *_strdup - duplicate        
- *@str: char
- *Return: 0    
+ * _strdup - duplicate
+ * @str: char
+ *
+ * Return: Always 0 (Success)
  */
+
 char *_strdup(char *str)
 {
 char *chara;
