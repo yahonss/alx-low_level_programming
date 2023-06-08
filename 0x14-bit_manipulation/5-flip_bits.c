@@ -7,7 +7,7 @@
  *
  * Return: number of flipping bits 
  */
-unsigned int flip_bits(unsigned long int n, unsigned long int m)
+unsigned int flip_bits(unsigned long int n1, unsigned long int n2)
 {
 	int i, counter = 0;
 	unsigned long int act;
