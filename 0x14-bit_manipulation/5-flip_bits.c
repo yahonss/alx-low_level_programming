@@ -4,9 +4,8 @@
  * flip_bits - returns number of flipping bits
  * @n1: number one
  * @n2: number two
- *
- * Return: number of flipping bits 
- */
+ *Return: number of flipping bits
+*/
 unsigned int flip_bits(unsigned long int n1, unsigned long int n2)
 {
 	int i, counter = 0;
